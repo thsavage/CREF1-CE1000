@@ -1,4 +1,5 @@
 # CREF1-CE1000
+
 This repository contains supplemental materials for CREF1-CE1006, Real Estate Finance for the CREFC Certificate in Real Estate Finance.
 
   * Jupyter notebooks can be rendered through GitHub, but there may be processing errors.
